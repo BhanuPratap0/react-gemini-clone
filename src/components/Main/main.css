@@ -1,7 +1,7 @@
 .main {
     flex: 1;
-    min-height: 100vh;
     padding-bottom: 15vh;
+    min-height: 100vh;
     position: relative;
 }
 
@@ -20,7 +20,6 @@
 }
 
 .main-container {
-    min-height: 90vh;
     max-width: 900px;
     margin: auto;
 }
